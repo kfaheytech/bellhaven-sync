@@ -1,0 +1,18 @@
+[
+  {
+    "type": "CREATE_NEW_ACCOUNT",
+    "location_hash": "8ee48b0746915326de2d94a4caf116e6",
+    "scraped_data": {
+      "name": "Bellhaven Meadows of Findlay",
+      "address": "123 Main St",
+      "city": "Findlay",
+      "state": "OH",
+      "zip": "45840",
+      "care_offerings": "Assisted Living, Memory Support",
+      "hash": "8ee48b0746915326de2d94a4caf116e6"
+    },
+    "crm_account": null,
+    "requires_chow_split": false,
+    "summary": "Location found on website but missing completely from CRM."
+  }
+]

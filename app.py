@@ -65,4 +65,4 @@ if st.button("✅ Approve Action & Write to CRM Sandbox"):
             st.success("Direct modification completed!")
             
     log_decision(item['location_hash'], "APPROVED")
-    st.experimental_rerun()
+    st.rerun()
